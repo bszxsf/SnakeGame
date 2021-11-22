@@ -1,0 +1,6 @@
+/test/
+*.o
+!.gitignore
+rank*
+bin
+build
